@@ -17,10 +17,6 @@ in this project you'll learn :
 git clone https://github.com/akshatkumawat/react-native-search-screen.git
 
 
-
-And of course Dillinger itself is open source with a [public repository][dill]
- on GitHub.
-
 ### Installation
 
 requires [Expo](https://docs.expo.io/get-started/installation/) to run.
