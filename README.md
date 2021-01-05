@@ -39,5 +39,5 @@ Dillinger is currently extended with the following plugins. Instructions on how 
 
 | platform | Link |
 | ------ | ------ |
-| Snack | [https://github.com/akshatkumawat/react-native-search-screen][PlDb] |
+| Snack | [https://github.com/akshatkumawat/react-native-search-screen] |
 
